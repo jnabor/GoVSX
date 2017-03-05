@@ -1,0 +1,4 @@
+C:\Users\sonab\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Company\GoVSX\1.0\\GoVSX.dll
+C:\Users\sonab\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Company\GoVSX\1.0\\GoVSX.pdb
+C:\Users\sonab\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Company\GoVSX\1.0\\GoVSX.pkgdef
+C:\Users\sonab\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Company\GoVSX\1.0\\extension.vsixmanifest
