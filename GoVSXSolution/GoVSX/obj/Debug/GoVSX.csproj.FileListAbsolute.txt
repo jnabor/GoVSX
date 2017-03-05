@@ -66,3 +66,4 @@ D:\Workspace\src\github.com\sonabstudios\GoVSX\GoVSXSolution\GoVSX\obj\Debug\GoV
 D:\Workspace\src\github.com\sonabstudios\GoVSX\GoVSXSolution\GoVSX\obj\Debug\GoVSX.pkgdef
 D:\Workspace\src\github.com\sonabstudios\GoVSX\GoVSXSolution\GoVSX\obj\Debug\GoVSX.latest.pkgdef
 D:\Workspace\src\github.com\sonabstudios\GoVSX\GoVSXSolution\GoVSX\obj\Debug\extension.vsixmanifest
+D:\Workspace\src\github.com\sonabstudios\GoVSX\GoVSXSolution\GoVSX\obj\Debug\GoVSX.csprojResolveAssemblyReference.cache

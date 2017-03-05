@@ -68,6 +68,7 @@ namespace GoVSX
         {
             StartGoCLI.Initialize(this);
             base.Initialize();
+
         }
 
         #endregion
