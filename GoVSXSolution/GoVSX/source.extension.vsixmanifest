@@ -1,12 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Id="GoVSX.Company.00c65723-84f9-4cbe-a123-48c67fad82ae" Version="1.0" Language="en-US" Publisher="Company" />
-    <DisplayName>GoVSX</DisplayName>
+    <Identity Id="GoVSX.Company.00c65723-84f9-4cbe-a123-48c67fad82ae" Version="1.0" Language="en-US" Publisher="Jayson Nabor" />
+    <DisplayName>Go Extension for Visual Studio</DisplayName>
     <Description>Empty VSIX Project.</Description>
   </Metadata>
-  <Installation>
+  <Installation AllUsers="true" InstalledByMsi="true">
     <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[14.0]" />
+    <InstallationTarget Version="[14.0,15.0)" Id="Microsoft.VisualStudio.Pro" />
+    <InstallationTarget Version="[14.0,15.0)" Id="Microsoft.VisualStudio.Enterprise" />
   </Installation>
   <Dependencies>
     <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" d:Source="Manual" Version="[4.5,)" />
